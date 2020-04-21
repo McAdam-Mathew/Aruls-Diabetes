@@ -1460,7 +1460,7 @@ label.custom-checkbox .checkmark:after {
 ========================*/
 
 .slider {
-    background-image: url(https://via.placeholder.com/1920x800);
+    background-image: url(../images/3.jpg);
     height: 800px;
 }
 .slider .banner-slider .banner-text {
@@ -3670,7 +3670,7 @@ label.custom-checkbox .checkmark:after {
 4. Blog
 ========================*/
 .sub-header{
-    background-image: url(https://via.placeholder.com/1920x380);
+    background-image: url(../images/SAH.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
